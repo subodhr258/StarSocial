@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+h1,h2,h3,h4,h5,h6 {
+  color: #ff5f59;
+}
